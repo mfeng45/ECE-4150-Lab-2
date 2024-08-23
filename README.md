@@ -101,3 +101,6 @@ The following exercises will help you implement user management, authentication,
 ## License
 
 This project belongs to Georgia Institute of Technology 
+
+## Video Demonstration of the Final Product 
+Youtube Link: https://youtu.be/iqKdcEg3gNE
